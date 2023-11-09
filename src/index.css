@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.money {
+    background-image: url(/src/images/money.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+.bgImg {
+    background-image: url(/src/images/bgimg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 75vh;
+}

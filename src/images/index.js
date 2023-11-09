@@ -1,0 +1,17 @@
+import logo from './logo.png'
+import figma from './figma.png'
+import fotoshop from './fotoshop.png'
+import illus from './illus.png'
+import green from './green.png'
+import qiz from './qiz.png'
+import servis from './servis.png'
+import gift from './gift.png'
+import travel from './travel.png'
+import opaa from './opaa.png'
+import aka from './aka.png'
+import svinya from './svinya.png'
+import money from './money.png'
+import bgimg from './bgimg.png'
+import footer from './footer.png'
+
+export { logo, figma, fotoshop, illus, green, qiz, gift, servis, travel, opaa, aka, svinya, money, bgimg, footer }
